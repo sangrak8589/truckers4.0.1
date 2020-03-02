@@ -1,0 +1,4 @@
+﻿{
+  "connectionString": "mongodb://localhost/truckers-clemson",
+  "secret": "mamba"
+}
